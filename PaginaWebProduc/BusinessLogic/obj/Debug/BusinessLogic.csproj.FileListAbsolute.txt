@@ -1,0 +1,52 @@
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\BusinessLogic\bin\Debug\Domain.dll
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\BusinessLogic\bin\Debug\Domain.pdb
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.pdb
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\BusinessLogic\bin\Debug\BusinessLogic.dll
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\BusinessLogic\bin\Debug\BusinessLogic.pdb
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\BusinessLogic\bin\Debug\DataAccess.dll
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\BusinessLogic\bin\Debug\Domain.dll
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\BusinessLogic\bin\Debug\DataAccess.pdb
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\BusinessLogic\bin\Debug\Domain.pdb
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.dll
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\BusinessLogic\bin\Debug\Domain.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\BusinessLogic\bin\Debug\Domain.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\BusinessLogic\bin\Debug\BusinessLogic.dll
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\BusinessLogic\bin\Debug\BusinessLogic.pdb
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\BusinessLogic\bin\Debug\DataAccess.dll
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\BusinessLogic\bin\Debug\Domain.dll
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\BusinessLogic\bin\Debug\DataAccess.pdb
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\BusinessLogic\bin\Debug\Domain.pdb
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.csproj.CoreCompileInputs.cache
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.dll
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\BusinessLogic\bin\Debug\Domain.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\BusinessLogic\bin\Debug\Domain.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\BusinessLogic\obj\Debug\BusinessLogic.csprojAssemblyReference.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\BusinessLogic\obj\Debug\BusinessLogic.csproj.CopyComplete
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\BusinessLogic\obj\Debug\BusinessLogic.pdb

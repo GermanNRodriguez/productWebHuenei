@@ -1,0 +1,6 @@
+C:\Users\Terriand\source\repos\finalfinal\BaseData\obj\Release\BaseData.Properties.Resources.resources
+C:\Users\Terriand\source\repos\finalfinal\BaseData\obj\Release\BaseData.csproj.GenerateResource.cache
+C:\Users\Terriand\source\repos\finalfinal\BaseData\obj\Release\BaseData.csproj.CoreCompileInputs.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\BaseData\obj\Release\BaseData.csprojAssemblyReference.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\BaseData\obj\Release\BaseData.Properties.Resources.resources
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\BaseData\obj\Release\BaseData.csproj.GenerateResource.cache

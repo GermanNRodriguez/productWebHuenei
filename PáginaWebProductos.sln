@@ -1,0 +1,73 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PáginaWebProductos", "PáginaWebProductos\PáginaWebProductos.csproj", "{0BC230FC-AFC5-4589-80B8-53A2DB5653B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Presentation", "01 - Presentation", "{B5725ED0-AA37-4D49-A348-FC2628063952}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - BusinessLogic", "03 - BusinessLogic", "{0A08B3BA-660C-42A3-94B3-92A4C0300925}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - DataAccess", "04 - DataAccess", "{2CCBB97A-631D-4FBA-A6C9-F006BAC05B55}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "05 - Domain", "05 - Domain", "{E3649057-CAED-44EA-A748-99F74756ECAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{6CA9E4D1-BB02-432E-8E0D-F63F47134CB6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{6FAF8487-ECCA-40E3-95C5-6B79F588040F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{506BB8D1-5DB3-461E-8AFA-D75E9E77F461}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Services", "02 - Services", "{BC48509D-F484-4BF9-9437-DBBFCB4962E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi_Products", "WebApi_Products\WebApi_Products.csproj", "{8E0AB735-6A08-48E0-92C8-72B1881E54A1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Basura", "Basura", "{FCE3A421-62DC-4443-894B-E0ECFAD3EBE4}"
+	ProjectSection(SolutionItems) = preProject
+		WebApi_Products\WebFormProducts.aspx = WebApi_Products\WebFormProducts.aspx
+		WebApi_Products\WebFormProducts.aspx.cs = WebApi_Products\WebFormProducts.aspx.cs
+		WebApi_Products\WebFormProducts.aspx.designer.cs = WebApi_Products\WebFormProducts.aspx.designer.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BC230FC-AFC5-4589-80B8-53A2DB5653B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BC230FC-AFC5-4589-80B8-53A2DB5653B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BC230FC-AFC5-4589-80B8-53A2DB5653B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BC230FC-AFC5-4589-80B8-53A2DB5653B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA9E4D1-BB02-432E-8E0D-F63F47134CB6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA9E4D1-BB02-432E-8E0D-F63F47134CB6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA9E4D1-BB02-432E-8E0D-F63F47134CB6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA9E4D1-BB02-432E-8E0D-F63F47134CB6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FAF8487-ECCA-40E3-95C5-6B79F588040F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FAF8487-ECCA-40E3-95C5-6B79F588040F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FAF8487-ECCA-40E3-95C5-6B79F588040F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FAF8487-ECCA-40E3-95C5-6B79F588040F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{506BB8D1-5DB3-461E-8AFA-D75E9E77F461}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{506BB8D1-5DB3-461E-8AFA-D75E9E77F461}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{506BB8D1-5DB3-461E-8AFA-D75E9E77F461}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{506BB8D1-5DB3-461E-8AFA-D75E9E77F461}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E0AB735-6A08-48E0-92C8-72B1881E54A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E0AB735-6A08-48E0-92C8-72B1881E54A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E0AB735-6A08-48E0-92C8-72B1881E54A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E0AB735-6A08-48E0-92C8-72B1881E54A1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0BC230FC-AFC5-4589-80B8-53A2DB5653B6} = {B5725ED0-AA37-4D49-A348-FC2628063952}
+		{6CA9E4D1-BB02-432E-8E0D-F63F47134CB6} = {E3649057-CAED-44EA-A748-99F74756ECAC}
+		{6FAF8487-ECCA-40E3-95C5-6B79F588040F} = {2CCBB97A-631D-4FBA-A6C9-F006BAC05B55}
+		{506BB8D1-5DB3-461E-8AFA-D75E9E77F461} = {0A08B3BA-660C-42A3-94B3-92A4C0300925}
+		{8E0AB735-6A08-48E0-92C8-72B1881E54A1} = {BC48509D-F484-4BF9-9437-DBBFCB4962E2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF29C6CB-E915-4E98-9643-5303AF491DE8}
+	EndGlobalSection
+EndGlobal

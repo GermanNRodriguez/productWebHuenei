@@ -1,0 +1,4 @@
+C:\Users\Terriand\source\repos\finalfinal\Dominio\obj\Debug\Dominio.csprojAssemblyReference.cache
+C:\Users\Terriand\source\repos\finalfinal\Dominio\obj\Debug\Dominio.Properties.Resources.resources
+C:\Users\Terriand\source\repos\finalfinal\Dominio\obj\Debug\Dominio.csproj.GenerateResource.cache
+C:\Users\Terriand\source\repos\finalfinal\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache

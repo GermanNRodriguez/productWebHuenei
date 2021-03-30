@@ -1,0 +1,3 @@
+C:\Users\Terriand\source\repos\finalfinal\BaseData\obj\Debug\BaseData.Properties.Resources.resources
+C:\Users\Terriand\source\repos\finalfinal\BaseData\obj\Debug\BaseData.csproj.GenerateResource.cache
+C:\Users\Terriand\source\repos\finalfinal\BaseData\obj\Debug\BaseData.csproj.CoreCompileInputs.cache

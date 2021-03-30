@@ -1,0 +1,3 @@
+C:\Users\Terriand\source\repos\finalfinal\web_api\obj\Release\web_api.csprojAssemblyReference.cache
+C:\Users\Terriand\source\repos\finalfinal\web_api\obj\Release\web_api.csproj.CoreCompileInputs.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\web_api\obj\Release\web_api.csprojAssemblyReference.cache

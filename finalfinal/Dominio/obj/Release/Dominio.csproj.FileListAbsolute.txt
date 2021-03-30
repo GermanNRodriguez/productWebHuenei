@@ -1,0 +1,12 @@
+C:\Users\Terriand\source\repos\finalfinal\Dominio\obj\Release\Dominio.csprojAssemblyReference.cache
+C:\Users\Terriand\source\repos\finalfinal\Dominio\obj\Release\Dominio.Properties.Resources.resources
+C:\Users\Terriand\source\repos\finalfinal\Dominio\obj\Release\Dominio.csproj.GenerateResource.cache
+C:\Users\Terriand\source\repos\finalfinal\Dominio\obj\Release\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\Dominio\obj\Release\Dominio.csprojAssemblyReference.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\Dominio\obj\Release\Dominio.Properties.Resources.resources
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\Dominio\obj\Release\Dominio.csproj.GenerateResource.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\Dominio\bin\Release\Dominio.exe.config
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\Dominio\bin\Release\Dominio.exe
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\Dominio\bin\Release\Dominio.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\Dominio\obj\Release\Dominio.exe
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\Dominio\obj\Release\Dominio.pdb

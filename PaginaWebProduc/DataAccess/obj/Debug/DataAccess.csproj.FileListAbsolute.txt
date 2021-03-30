@@ -1,0 +1,42 @@
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\DataAccess\bin\Debug\Domain.dll
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\DataAccess\bin\Debug\Domain.pdb
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.pdb
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\DataAccess\bin\Debug\DataAccess.dll
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\DataAccess\bin\Debug\DataAccess.pdb
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\DataAccess\bin\Debug\Domain.dll
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\DataAccess\bin\Debug\Domain.pdb
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.dll
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\DataAccess\bin\Debug\Domain.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\DataAccess\bin\Debug\Domain.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.pdb
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\DataAccess\bin\Debug\DataAccess.dll
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\DataAccess\bin\Debug\DataAccess.pdb
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\DataAccess\bin\Debug\Domain.dll
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\DataAccess\bin\Debug\Domain.pdb
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.dll
+G:\Leus\Downloads\producto final\PáginaWebProductos\PáginaWebProductos\DataAccess\obj\Debug\DataAccess.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\DataAccess\bin\Debug\DataAccess.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\DataAccess\bin\Debug\DataAccess.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\DataAccess\bin\Debug\Domain.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\DataAccess\bin\Debug\Domain.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\DataAccess\obj\Debug\DataAccess.csprojAssemblyReference.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\DataAccess\obj\Debug\DataAccess.csproj.CopyComplete
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\DataAccess\obj\Debug\DataAccess.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PaginaWebProduc\DataAccess\obj\Debug\DataAccess.pdb

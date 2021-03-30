@@ -1,0 +1,2 @@
+C:\Users\Terriand\source\repos\finalfinal\web_api\obj\Debug\web_api.csprojAssemblyReference.cache
+C:\Users\Terriand\source\repos\finalfinal\web_api\obj\Debug\web_api.csproj.CoreCompileInputs.cache

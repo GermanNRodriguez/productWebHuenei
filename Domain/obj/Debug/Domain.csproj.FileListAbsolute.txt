@@ -1,0 +1,16 @@
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\Domain\bin\Debug\Domain.dll
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\Domain\bin\Debug\Domain.pdb
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\Domain\obj\Debug\Domain.dll
+C:\Users\Gerniroz\source\repos\PáginaWebProductos\Domain\obj\Debug\Domain.pdb
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\Domain\bin\Debug\Domain.dll
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\Domain\bin\Debug\Domain.pdb
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\Domain\obj\Debug\Domain.dll
+G:\Leus\Downloads\PáginaWebProductos (1) - copia\PáginaWebProductos\Domain\obj\Debug\Domain.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\Domain\bin\Debug\Domain.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\Domain\bin\Debug\Domain.pdb
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\Domain\obj\Debug\Domain.dll
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\PáginaWebProductos\Domain\obj\Debug\Domain.pdb

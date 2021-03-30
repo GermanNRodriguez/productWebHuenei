@@ -1,0 +1,7 @@
+C:\Users\Terriand\source\repos\finalfinal\Negocio\obj\Release\Negocio.csprojAssemblyReference.cache
+C:\Users\Terriand\source\repos\finalfinal\Negocio\obj\Release\Negocio.Properties.Resources.resources
+C:\Users\Terriand\source\repos\finalfinal\Negocio\obj\Release\Negocio.csproj.GenerateResource.cache
+C:\Users\Terriand\source\repos\finalfinal\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\Negocio\obj\Release\Negocio.csprojAssemblyReference.cache
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\Negocio\obj\Release\Negocio.Properties.Resources.resources
+C:\Users\Gerniroz\Desktop\TallerHuenei\ProyectoFinal\finalfinal\Negocio\obj\Release\Negocio.csproj.GenerateResource.cache
